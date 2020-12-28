@@ -1,3 +1,3 @@
 # browser-logdna
 
-![npm](https://img.shields.io/npm/v/browser-logdna)
+![npm](https://camo.githubusercontent.com/69c0c6ff6fcd5d0cbb1ed69606fc42fdba45c90259c04d28e217a0b2e7db771f/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f62726f777365722d6c6f67646e61)
