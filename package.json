@@ -1,0 +1,22 @@
+{
+  "name": "browser-logdna",
+  "version": "1.0.1",
+  "description": "A browser-side library that allows you to send logs to a LogDna account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewCandido/browser-logdna.git"
+  },
+  "keywords": [
+    "logdna"
+  ],
+  "author": "Matheus Candido da Silva",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MatthewCandido/browser-logdna/issues"
+  },
+  "homepage": "https://github.com/MatthewCandido/browser-logdna#readme"
+}
