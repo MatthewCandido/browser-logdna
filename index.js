@@ -55,4 +55,4 @@ class BrowserLogdna {
     }
 }
 
-module.exports = new BrowserLogdna({logdnaIngestionKey, logdnaHost, appName, env});
+module.exports = BrowserLogdna
