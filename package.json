@@ -1,6 +1,6 @@
 {
   "name": "browser-logdna",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A browser-side library that allows you to send logs to a LogDna account",
   "main": "index.js",
   "scripts": {
